@@ -38,14 +38,14 @@ body {
 
 .box {
     background-color: white;
-    padding: 20px; /* Increased padding for a larger box */
+    padding: 20px; 
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
     text-align: left;
     border: 1px solid #000000; 
-    width: 100%; /* Make boxes full width of grid cell */
-    max-width: 350px; /* Increased max width of boxes */
-    min-height: 200px; /* Set a minimum height for consistency */
-    /* Removed border-radius to make corners square */
+    width: 100%;
+    max-width: 350px;
+    min-height: 200px;
+
 }
 
 .font1 {
